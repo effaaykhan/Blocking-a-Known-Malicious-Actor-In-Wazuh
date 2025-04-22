@@ -64,6 +64,6 @@ In this use case, I will be using the Wazuh [CDB list](https://documentation.waz
    ```
 7. Assign the right permissions and ownership to the generated file:
    ```
-   Assign the right permissions and ownership to the generated file:
+   
    ```
 8. 
